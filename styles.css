@@ -41,6 +41,7 @@ h1,
 .mainPage {
   width: 70%;
   min-width: 375px;
+  height: 100vh;
   margin: auto;
   padding: 40px 0px;
   display: flex;
@@ -85,6 +86,7 @@ h1,
 .rated {
   font-size: 15px;
   width: 75%;
+  min-width: 350px;
   background-color: hsl(304, 21%, 85%);
   border-radius: 4px;
   padding: 15px;
